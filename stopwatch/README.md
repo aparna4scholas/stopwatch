@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 --->stop
 --->clearTimer()
 --->counter=0
---->ause
+--->pause
 --->counter=currentCounter
 
 ## Available Scripts
