@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # # pseudocode
-1.display 3 buttons start,stop,pause
+1.display three buttons start,stop,pause
 2.start
 3.setTimer()
 4.counter ++
