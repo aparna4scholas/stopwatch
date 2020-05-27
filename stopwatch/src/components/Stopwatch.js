@@ -9,6 +9,9 @@ import React, { Component } from 'react'
          this.pause = this.pause.bind(this);
 
      }
+     start(){
+         
+     }
     render() {
         return (
             <div>
@@ -16,6 +19,13 @@ import React, { Component } from 'react'
                 <button onClick={this.start} >
                     Start
                 </button>
+                <button onClick={this.pause} >
+                    Pause
+                </button>
+                <button onClick={this.reset} >
+                    Reset
+                </button>
+
             </div>
         )
     }
